@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package greet;
+
+message Greet{
+    string reply = 1;
+}
